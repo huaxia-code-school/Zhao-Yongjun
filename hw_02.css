@@ -1,0 +1,21 @@
+h1,h2 {
+  border-bottom: 1px solid black;
+}
+table, th, td {
+    border: 1px solid black;
+  }
+  table {
+    border-collapse: collapse;
+  }
+
+h2.noline {
+  border-bottom: 0px;
+}
+
+th {
+  background-color: rgb(231, 231, 188);
+}
+
+.cellcolor {
+  background-color: rgb(238, 218, 218);
+}
